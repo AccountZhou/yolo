@@ -5,7 +5,7 @@ Deploy [YOLOv5](https://github.com/ultralytics/yolov5/releases/tag/v5.0) detecti
 
 # 线上体验
 
-<https://accountzhou-yolo-main-lyhhz8.streamlit.app/>
+<https://accountzhou-yolo-main-iiptuh.streamlit.app/>
 
 # 安装依赖
 
