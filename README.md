@@ -20,8 +20,3 @@ pip install -r requirements.txt
 streamlit run main.py
 ```
 
-**图片检测**
-
-
-
-**视频检测**
